@@ -1,0 +1,14 @@
+[
+{
+"modid": "rmfphand",
+"name": "Remove First Person Hand",
+"description": "Removes first person hand that shows on your screen.",
+"credits": "iPixeli",
+"authors": [ "iPixeli" ],
+"url": "https://github.com/iPixeli/rmfphand",
+"updateUrl": "",
+"parent": "",
+"screenshots": [ ],
+"dependencies": [ ]
+}
+]
