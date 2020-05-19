@@ -23,7 +23,7 @@ public class RemoveFirstPersonHand
 	
 	@SubscribeEvent
 	@SideOnly(Side.CLIENT)
-	public void onSoundAtEntity(RenderHandEvent e)
+	public void onEvent(RenderHandEvent e)
 	{
 		e.setCanceled(true);
 	}
